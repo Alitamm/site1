@@ -190,9 +190,22 @@ ul{
 }
 .footrer{
     padding: 0.5cm;
-    background: rgb(70, 62, 62);
+    background: rgb(90, 85, 85);
 }
 .text{
     text-align: center;
     color: honeydew;
+}
+.bee{
+    background-color: blue;
+    padding: 15px;
+    margin-bottom:auto;
+    border-radius: 7px;
+    position:relative;
+    width: 180px;
+    align-self: center ;
+    text-decoration: none;
+    font-family:fantasy;
+
+    
 }
